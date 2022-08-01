@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"I wish all people with cats a very pleasant can I see them!"
 Use the left arrow to go back!
